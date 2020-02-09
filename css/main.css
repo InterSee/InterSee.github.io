@@ -1,0 +1,236 @@
+*{padding: 0;
+  margin: 30px;
+  box-sizing: border-box;
+  background-color: wait;}
+
+main{
+     display: flex;
+     width: 70%;
+     padding: 50px;
+     margin: auto;
+     background-color:rgba(0,255,0,15);
+     flex-wrap: wrap;
+     justify-content: center;
+	 box-shadow:0 0 450px 100px rgba(128,255,0,1)
+     }
+
+h1{
+	width: 100%;
+	text-align: center;
+	font-size: 60px;
+    }
+.photo{
+       width: calc(50% - 40px);
+       height: calc((35vw - 40px) / 16 * 9);
+       margin: 20px;
+       background-color: orange;
+	   background-position: center;
+	   background-size: cover;
+	   transition: all 0.5s ease;
+       }
+
+               } 		   
+@font-face{
+		     font-family: Roboto;
+			 src: url(../fonts/Roboto-Regular.ttf);
+	         }
+body{ background-color: wait;
+      font-family: Roboto;}
+
+.photo1{
+       background-image: url("../img/img1.jpg"); 
+       }
+.photo1:hover{
+           transform: rotate(-5deg) scale(1.1);
+               }
+.photo2{
+	   background-image: url("../img/img2.jpg");
+       }
+	   .photo2:hover{
+           transform: rotate(5deg) scale(1.1);
+               }
+.photo3{
+       background-image: url("../img/img3.jpg");
+       }
+	   .photo3:hover{
+           transform: rotate(-5deg) scale(1.1);
+               }
+.photo4{
+       background-image: url("../img/img4.jpg");
+       }
+	   .photo4:hover{
+           transform: rotate(5deg) scale(1.1);
+               }
+.photo5{
+       background-image: url("../img/img5.jpg");
+       }
+	   .photo5:hover{
+           transform: rotate(-5deg) scale(1.1);
+               }
+.photo6{
+       background-image: url("../img/img6.jpg");
+       }
+	   .photo6:hover{
+           transform: rotate(5deg) scale(1.1);
+               }
+.photo7{
+       background-image: url("../img/img7.jpg");
+       }
+	   .photo7:hover{
+           transform: rotate(-5deg) scale(1.1);
+               }
+.photo8{
+       background-image: url("../img/img8.jpg");
+       }
+	   .photo8:hover{
+           transform: rotate(5deg) scale(1.1);
+               }
+.photo9{
+       background-image: url("../img/img9.jpg");
+       }
+	   .photo9:hover{
+           transform: rotate(-5deg) scale(1.1);
+               }
+.photo10{
+       background-image: url("../img/img10.jpg");
+       }
+	   .photo10:hover{
+           transform: rotate(5deg) scale(1.1);
+               }
+.photo11{
+       background-image: url("../img/img11.jpg");
+       }
+	   .photo11:hover{
+           transform: rotate(-5deg) scale(1.1);
+               }
+.photo12{
+       background-image: url("../img/img12.jpg");
+       }
+	   .photo12:hover{
+           transform: rotate(5deg) scale(1.1);
+               }
+.photo13{
+       background-image: url("../img/img13.jpg");
+       }
+	   .photo13:hover{
+           transform: rotate(-5deg) scale(1.1);
+               }
+.photo14{
+       background-image: url("../img/img14.jpg");
+       }
+	   .photo14:hover{
+           transform: rotate(5deg) scale(1.1);
+               }
+.photo15{
+       background-image: url("../img/img15.jpg");
+       }
+	   .photo15:hover{
+           transform: rotate(-5deg) scale(1.1);
+               }
+.photo16{
+       background-image: url("../img/img16.jpg");
+       }
+	   .photo16:hover{
+           transform: rotate(5deg) scale(1.1);
+               }
+.photo17{
+       background-image: url("../img/img17.jpg");
+       }
+	   .photo17:hover{
+           transform: rotate(-5deg) scale(1.1);
+               }
+.photo18{
+       background-image: url("../img/img18.jpg");
+       }
+	   .photo18:hover{
+           transform: rotate(5deg) scale(1.1);
+               }
+.photo19{
+       background-image: url("../img/img19.jpg");
+       }
+	   .photo19:hover{
+           transform: rotate(-5deg) scale(1.1);
+               }
+.photo20{
+       background-image: url("../img/img20.jpg");
+       }
+	   .photo20:hover{
+           transform: rotate(5deg) scale(1.1);
+               }
+
+
+          
+
+          
+
+
+          
+
+
+          
+
+
+          
+
+
+          
+
+
+          
+
+
+          
+
+
+          
+
+
+          
+
+
+          
+
+
+          
+
+
+          
+
+
+          
+
+
+          
+
+          
+
+
+          
+
+
+          
+
+
+          
+
+
+          
+
+          
+
+          
+
+          
+
+          
+
+          
+
+
+          
+
+
+          
+
+
+          
